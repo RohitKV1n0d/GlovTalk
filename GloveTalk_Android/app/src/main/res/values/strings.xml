@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GloveTalk</string>
+    <string name="bttn_reset">Reset</string>
+    <string name="hint_ip">IP</string>
+    <string name="hint_port">PORT</string>
+    <string name="bttn_train">Train</string>
+    <string name="bttn_predict">Predict</string>
+    <string name="bttn_next">Next</string>
+    <string name="bttn_start">Start</string>
+    <string name="bttn_stop">Stop</string>
+    <string name="hint_train_word">Word</string>
+    <string name="text_name">NAME</string>
+</resources>
